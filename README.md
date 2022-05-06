@@ -1,2 +1,2 @@
-Ejercicios resueltos de la materia programaci;on del ISPC TSDWAD
+Ejercicios resueltos de la materia programaci;on del ISPC TSCDIA
 
